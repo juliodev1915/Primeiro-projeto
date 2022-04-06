@@ -1,7 +1,6 @@
 # Antes de rodar o jogo é preciso criar um arquivo txt com o nome "projeto" ex: projeto.txt
 # Caso o usuário declare que não que continuar em algum ponto do jogo, antes de chegar na primeira chamada da função escrever_arquivo, e quiser rodar o código novamente, é necessário recriar o arquivo txt
-
-
+#mozo
 
 from time import sleep
 from tqdm import tqdm
